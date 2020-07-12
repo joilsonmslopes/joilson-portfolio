@@ -48,6 +48,12 @@ html, body {
   padding: 6px;
   border-radius: 16px;
   box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.199);
+  transition: 0.5s;
+}
+
+#page-home header div a:hover {
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.712);
+
 }
 
 #page-home .main {
