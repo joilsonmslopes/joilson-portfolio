@@ -1,0 +1,118 @@
+@media (max-width: 750px) {
+  header {
+    width: 100%;
+  }
+
+  #page-home header a>img {
+    width: 130px;
+  }
+
+  #page-home header div a {
+    width: 70px;
+    font-size: 14px;
+  }
+
+  #page-home .main .projetos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  #page-home .main .projetos a {
+    margin-bottom: 16px;
+  }
+
+  #page-home .main .projetos a img {
+    width: 350px;
+  }
+
+  #page-home footer .btn-whatsapp{
+    width: 110px;
+  }
+
+  #page-home footer img {
+    width: 20px;
+  }
+
+  #page-home footer .links {
+    width: 100px;
+  }
+}
+
+@media (max-width: 460px) {
+  #page-home .main .projetos a img {
+    width: 250px;
+  }
+}
+
+@media (max-width: 1240px) {
+  #page-home header {
+    width: 100%;
+  }
+
+  #page-home header a>img {
+    width: 130px;
+  }
+
+  #page-home header div a {
+    width: 70px;
+    font-size: 14px;
+  }
+
+  #page-home .main .projetos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  #page-home .main .projetos a {
+    margin-bottom: 16px;
+  }
+
+  #page-home .main .projetos {
+    display: flex;
+  }
+
+  #page-home .main .projetos img {
+    width: 290px;
+  }
+
+  #page-home footer .btn-whatsapp{
+    width: 110px;
+  }
+
+  #page-home footer img {
+    width: 20px;
+  }
+
+  #page-home footer .links {
+    width: 100px;
+  }
+}
+
+@media (max-width: 1000px) {
+  #page-home header {
+    width: 100%;
+  }
+
+  #page-home header div a {
+    width: 70px;
+    font-size: 14px;
+  }
+
+  #page-home .main .projetos a {
+    margin-bottom: 16px;
+  }
+
+  #page-home .main .projetos img {
+    width: 230px;
+  }
+
+  #page-home .main .projetos p {
+    font-size: 14px;
+  }
+
+}
